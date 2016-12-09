@@ -25,16 +25,18 @@ Inputs, Hidden (computo?) y Outputs
 ### Entrenamiento
 
 Le tiramos data con el *input* y el *output* para que *aprenda* a hacer el 
-cálculo de nuestra función XOR (!a.b + a.!b)
+cálculo de nuestra función **XOR** `(!a.b + a.!b)`
 
 Creamos un `array` de test con los datos de entrada y salida esperados y dejamos
 que haga su magia.
 
-A | B | X | Q
-0 | 0 | 1 | 0
-0 | 1 | 1 | 1
-1 | 0 | 1 | 1
-1 | 1 | 1 | 0
+
+ A | B | X | Q
+---|---|---|---
+ 0 | 0 | 1 | 0
+ 0 | 1 | 1 | 1
+ 1 | 0 | 1 | 1
+ 1 | 1 | 1 | 0
 
 
 A y B son los Inputs
