@@ -7,9 +7,9 @@ Este demo lo saque desde [aca](https://github.com/stmorgan/pythonNNexample/blob/
 
 Basicamente en ML (sigla de Machine Learning) hay 3 partes:
 
-1- El Modelado
-2- El Entrenamiento
-3- La Prueba
+1. El Modelado
+2. El Entrenamiento
+3. La Prueba
 
 
 ### Modelado
