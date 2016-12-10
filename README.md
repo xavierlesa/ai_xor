@@ -65,7 +65,14 @@ y = np.array([
 ```
 
 
-Por último para probar el código:
+Por último para probar el código tenés que tener instalado `numpy`:
+
+```bash
+$ pip install numpy
+```
+
+y luego para probar la demo:
+
 
 ```bash
 $ python demo.py
